@@ -157,28 +157,17 @@ Estado       : 🟢 Operativo
 
 <div align="center">
 <!-- RACHA: Enlace directo verificado -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodridev4&theme=midnight-purple&hide_border=true" alt="Streak"/>
+<!-- RACHA -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodridev4&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
-
-
-
-
-<!-- STATS + LENGUAJES: Enlaces directos verificados -->
-
-<table align="center" border="0">
+<!-- STATS + LENGUAJES -->
+<table align="center">
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=C5A3FF&icon_color=8A63D2&text_color=E5E5F0" alt="Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&layout=compact&hide_border=true&theme=transparent&title_color=C5A3FF&text_color=E5E5F0" alt="Top Languages" />
-</td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=react" alt="GitHub Stats"/>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
+  </td>
 </tr>
 </table>
-</div>
-
-<!-- ===================== FOOTER SUAVE ===================== -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A63D2&height=120&section=footer" alt="Footer Profesional" width="100%"/>
-</div>
