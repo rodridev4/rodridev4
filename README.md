@@ -147,10 +147,18 @@ Copy code
 
 <table align="center">
 <tr>
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
-<td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodridev4&theme=dracula&hide_border=true&layout=compact"/></td>
+  <td>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=dracula"
+    />
+  </td>
+  <td>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&theme=dracula&hide_border=true&layout=compact"
+    />
+  </td>
 </tr>
+
 </table>
 
 </div>
