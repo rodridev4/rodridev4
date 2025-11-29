@@ -23,9 +23,9 @@
 
 👨🏻‍💻 Sobre mí
 
-Desarrollador de Software con formación especializada en Ciberseguridad. Me interesa la protección de infraestructura TI y el desarrollo de aplicaciones seguras.
+Desarrollador de Software con formación especializada en Ciberseguridad. Me interesa la protección de infraestructura TI y el desarrollo de aplicaciones seguras. Siempre abierto a aprender cosas nuevas!
 
-🔭 Enfoque actual: Desarrollo Java y Seguridad en Redes.
+🔭 Enfoque actual: Desarrollo y Seguridad en Redes.
 
 🎓 Formación: Certificado en Desarrollo de Aplicaciones y Ciberseguridad (INACAP / Cisco).
 
