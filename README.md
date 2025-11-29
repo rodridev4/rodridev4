@@ -92,7 +92,7 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 <td width="50%" align="center">
 <h3>Validador de Contraseñas</h3>
 <a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas">
-<img width="500" src="https://github.com/rodridev4/Validador-de-contrase-as-filtradas/blob/main/Contrasena.png?raw=true" alt="Password Checker"/>
+<img width="500" src="https://github.com/rodridev4/Validador-de-contrase-as-filtradas/blob/main/contra.png?raw=true" alt="Password Checker"/>
 </a>
 
 
