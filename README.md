@@ -90,8 +90,8 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 <tr>
 <!-- PROYECTO 1 -->
 <td width="50%" align="center">
-<h3>Sistema de Gestión (Java/MySQL)</h3>
-<a href="https://github.com/rodridev4">
+<h3>Validador de contrasenas filtradas</h3>
+<a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas">
 <!-- Reemplaza con una imagen real cuando tengas -->
 <img width="100%" src="https://www.google.com/search?q=https://via.placeholder.com/300x150/007bff/ffffff%3Ftext%3DJava%2BBackend%2B%2526%2BDB" alt="Proyecto Java"/>
 </a>
