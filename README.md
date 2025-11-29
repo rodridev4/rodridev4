@@ -92,8 +92,8 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 <td width="50%" align="center">
 <h3>Validador de Contraseñas</h3>
 <a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas">
-<!-- Imagen Placeholder estilo Hacker -->
-<img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Password Checker"/>
+<!-- Logo de Python -->
+<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Password Checker"/>
 </a>
 
 
@@ -101,27 +101,24 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 
 
 <p>Herramienta CLI segura que verifica filtraciones usando la API HIBP y k-Anonymity.</p>
-<a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas"><img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas">
+<img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/>
+</a>
 </td>
 
-
-
-
-
-<p>Gestión de datos segura aplicando principios de infraestructura TI.</p>
-<a href="https://github.com/rodridev4"><img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/></a>
-</td>
-
-<!-- PROYECTO 2 -->
+<!-- PROYECTO 2: App Web -->
 <td width="50%" align="center">
-  <h3>App Web de seguimiento de ejercicios</h3>
+  <h3>App Web de Seguimiento</h3>
   <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
-    <!-- Reemplaza con una imagen real cuando tengas -->
-    <img width="50%" src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true"/>
+    <!-- Foto de tu App -->
+    <img width="300" src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true" alt="App Web"/>
   </a>
   <br/>
-  <p>App Web con una interfaz responsiva y con muchas funciones utiles para el usuario.</p>
-  <a href="https://github.com/rodridev4"><img src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true"/></a>
+  <p>App Web con interfaz responsiva y funciones útiles para el usuario.</p>
+  <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
+    <!-- CORREGIDO: Aquí estaba la foto de la app de nuevo, puse el botón correcto -->
+    <img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </td>
 
 
