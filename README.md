@@ -5,6 +5,8 @@
 
 <!-- TYPING SVG -->
 
+<!-- Enlace directo corregido: Sin redirecciones de Google -->
+
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=C5A3FF&center=true&vCenter=true&width=600&lines=Analista+de+Ciberseguridad+Jr.;Desarrollador+de+Software;Infraestructura+TI+Segura;Java+%2B+Security" alt="Typing SVG" />
 </a>
@@ -154,14 +156,14 @@ Estado       : 🟢 Operativo
 📈 Estadísticas GitHub
 
 <div align="center">
-<!-- RACHA -->
+<!-- RACHA: Enlace directo verificado -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodridev4&theme=midnight-purple&hide_border=true" alt="Streak"/>
 
 
 
 
 
-<!-- STATS + LENGUAJES -->
+<!-- STATS + LENGUAJES: Enlaces directos verificados -->
 
 <table align="center" border="0">
 <tr>
