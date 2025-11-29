@@ -22,7 +22,7 @@
 
 👨🏻‍💻 Sobre mí
 
-Desarrollador de Software con formación especializada en Ciberseguridad. Me interesa la protección de infraestructura TI y el desarrollo de aplicaciones seguras. Siempre abierto a aprender cosas nuevas!
+Desarrollador de Software con interes en la ciberseguridad. Me interesa la protección de infraestructura TI y el desarrollo de aplicaciones seguras. Siempre abierto a aprender cosas nuevas!
 
 🔭 Enfoque actual: Desarrollo y Seguridad en Redes.
 
