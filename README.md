@@ -12,11 +12,8 @@
 <a href="https://www.linkedin.com/in/rodrigo-jara-/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<!--
-IMPORTANTE: Reemplaza "TU_ENLACE_CREDLY" con el link de tu perfil público de Credly.
-Si no tienes el link a mano, entra a Credly > Profile > Share > Copy Link.
--->
-<a href="TU_ENLACE_CREDLY" target="blank">
+
+<a href="https://www.credly.com/users/rodrigo-jara.a94f29b7/edit#credly" target="blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Credly-FF6B00%3Fstyle%3Dfor-the-badge%26logo%3Dcredly%26logoColor%3Dwhite" alt="Credly"/>
 </a>
 <a href="mailto:rodrigojara.work@gmail.com" target="blank">
