@@ -49,8 +49,8 @@ Ubicación    : Chile
 rodridev4@system:~$ ./run_status.sh
 [+] Cargando módulos...
 
-Intereses    : Ciberseguridad | Redes | Desarrollo Backend
-Soft Skills  : Liderazgo | Trabajo en Equipo | Resolución de Problemas
+Intereses    : Ciberseguridad | Redes | Desarrollo Backend |
+Soft Skills  : Liderazgo | Trabajo en Equipo | Resolución de Problemas |
 Contacto     : rodrigojara.work@gmail.com
 Estado       : 🟢 Operativo
 
