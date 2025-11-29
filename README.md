@@ -79,7 +79,7 @@ Desarrollador de Software con formación especializada en Ciberseguridad. Me int
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,mysql,spring,linux,bash,js,html,css,tailwind,git,github,vscode,idea%26perline%3D13" />
+<img src="[![My Skills](https://skillicons.dev/icons?i=js,python,vscode,html,css,aws,mysql,)](https://skillicons.dev)" />
 </a>
 </div>
 
