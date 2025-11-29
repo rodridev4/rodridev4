@@ -7,6 +7,8 @@
 <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D38BDF8%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DDesarrollador%2Bde%2BSoftware%3BAnalista%2Bde%2BCiberseguridad%2BJr.%3BInfraestructura%2BTI%2BSegura%3BJava%2B%252B%2BSecurity" alt="Typing SVG" />
 </a>
 </div>
+</a>
+</div>
 
 <!-- REDES SOCIALES -->
 
