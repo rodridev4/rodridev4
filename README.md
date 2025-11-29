@@ -19,7 +19,7 @@
 
 👨🏻‍💻 Sobre mí
 
-Desarrollador apasionado por crear soluciones seguras y eficientes. Combino el desarrollo de software con buenas prácticas de Ciberseguridad e Infraestructura TI.
+Desarrollador apasionado por crear soluciones seguras y eficientes. Combino el desarrollo de software con buenas prácticas de Ciberseguridad e Infraestructura TI. Siempre abierto a aprender cosas nuevas!
 
 🔭 Enfoque actual: Desarrollo Java seguro y Arquitectura de redes.
 
