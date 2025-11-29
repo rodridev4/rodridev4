@@ -93,7 +93,7 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 <h3>Validador de Contraseñas</h3>
 <a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas">
 <!-- Logo de Python -->
-<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Password Checker"/>
+<img width="300" src="https://github.com/rodridev4/Validador-de-contrase-as-filtradas/blob/main/Contrasena.png?raw=true" alt="Password Checker"/>
 </a>
 
 
