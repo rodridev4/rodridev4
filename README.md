@@ -88,11 +88,11 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 <div align="center">
 <table>
 <tr>
-<!-- PROYECTO 1: Validador de Contraseñas -->
-<td width="50%" align="center">
+<!-- PROYECTO 1 -->
+<td width="50%" align="center" valign="top">
 <h3>Validador de Contraseñas</h3>
 <a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas">
-<img width="500" src="https://github.com/rodridev4/Validador-de-contrase-as-filtradas/blob/main/contra.png?raw=true" alt="Password Checker"/>
+<img width="100%" src="https://github.com/rodridev4/Validador-de-contrase-as-filtradas/blob/main/contra.png?raw=true" alt="Password Checker"/>
 </a>
 
 
@@ -105,17 +105,16 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 </a>
 </td>
 
-<!-- PROYECTO 2: App Web -->
-<td width="100%" align="center">
+<!-- PROYECTO 2 -->
+<td width="50%" align="center" valign="top">
   <h3>App Web de Seguimiento</h3>
   <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
-    <!-- Foto de tu App -->
-    <img width="500" src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true" alt="App Web"/>
+    <img width="100%" src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true" alt="App Web"/>
   </a>
   <br/>
-  <p>App Web con interfaz responsiva y funciones útiles para el usuario.</p>
+  <!-- TRUCO: <br/> extra al final para igualar la altura del texto con el vecino -->
+  <p>App Web con interfaz responsiva y funciones útiles para el usuario.<br/></p>
   <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
-    <!-- CORREGIDO: Aquí estaba la foto de la app de nuevo, puse el botón correcto -->
     <img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </td>
