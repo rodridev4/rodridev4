@@ -142,21 +142,19 @@ Copy code
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodridev4&theme=dracula&hide_border=true"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=react"
+/>
 
-<table align="center">
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&layout=compact&hide_border=true&theme=react"
+/>
+
 <tr>
   <td>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=dracula"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=react"/>
   </td>
   <td>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&theme=dracula&hide_border=true&layout=compact"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&layout=compact&hide_border=true&theme=react"/>
   </td>
 </tr>
-</table>
-
-</div>
