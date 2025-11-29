@@ -1,44 +1,51 @@
 <div align="center">
 <h1 align="center">Hola 👋 soy Rodrigo</h1>
 
-  <!-- EFECTO DE ESCRITURA -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Analista+de+Ciberseguridad+Jr.;Infraestructura+TI+Segura;Java+%2B+Security" alt="Typing SVG" />
+<!-- EFECTO DE ESCRITURA -->
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Analista+de+Ciberseguridad+Jr.;Infraestructura+TI+Segura;Java+%2B+Security" alt="Typing SVG" />
+</a>
 </div>
 
 <!-- REDES SOCIALES -->
+
 <p align="center">
-  <a href="https://github.com/rodridev4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigo-jara-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/rodrigo-jara.a94f29b7" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-  <a href="mailto:rodrigojara.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://github.com/rodridev4" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rodrigo-jara-/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.credly.com/users/rodrigo-jara.a94f29b7" target="_blank">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+<a href="mailto:rodrigojara.work@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 <!-- CONTADOR DE VISITAS -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rodridev4&label=Visitas+del+Perfil&color=0e75b6&style=flat-square" alt="Visitas del perfil" />
+<img src="https://komarev.com/ghpvc/?username=rodridev4&label=Visitas+del+Perfil&color=0e75b6&style=flat-square" alt="Visitas del perfil" />
 </p>
 
-👨🏻‍💻 Sobre mí
+👨🏻‍💻 System Status
 
-Desarrollador de Software con formación especializada en Ciberseguridad. Me interesa la protección de infraestructura TI y el desarrollo de aplicaciones seguras. Siempre abierto a aprender cosas nuevas!
+rodridev4@kali-linux:~$ cat perfil.info
 
-🔭 Enfoque actual: Desarrollo y Seguridad en Redes.
+> Usuario: Rodrigo Jara
+> Rol: Analista de Ciberseguridad Jr. & Dev
+> Enfoque: Desarrollo y Seguridad en Redes
 
-🎓 Formación: Certificado en Desarrollo de Aplicaciones y Ciberseguridad (INACAP / Cisco).
+rodridev4@kali-linux:~$ ./run_skills.sh
+[+] Cargando módulos...
+   - Intereses: Ciberseguridad, Redes, Backend
+   - Soft Skills: Liderazgo, Trabajo en equipo
+   - Contacto: rodrigojara.work@gmail.com
+   - Estado: 🟢 Listo para colaborar
 
-🛡️ Intereses: Ciberseguridad, Redes y Backend.
-
-⚡ Soft Skills: Liderazgo y trabajo en equipo (Santander Open Academy).
-
-📫 Contacto: rodrigojara.work@gmail.com
 
 🏅 Certificaciones y Credenciales
 
@@ -114,14 +121,13 @@ Desarrollador de Software con formación especializada en Ciberseguridad. Me int
 <!-- PROYECTO 2 -->
 <td width="50%" align="center" valign="top">
   <h3>App Web de Seguimiento</h3>
-  <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
-    <img width="100%" src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true" alt="App Web"/>
+  <a href="[https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios](https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios)">
+    <img width="100%" src="[https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true](https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true)" alt="App Web"/>
   </a>
   <br/>
-  <!-- TRUCO: <br/> extra al final para igualar la altura del texto con el vecino -->
   <p>App Web con interfaz responsiva y funciones útiles para el usuario.<br/></p>
-  <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
-    <img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/>
+  <a href="[https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios](https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios)">
+    <img src="[https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white)"/>
   </a>
 </td>
 
@@ -130,10 +136,16 @@ Desarrollador de Software con formación especializada en Ciberseguridad. Me int
 </table>
 </div>
 
+<!-- SEPARADOR ESTILO CIBERSEGURIDAD -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 📈 Estadísticas GitHub
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Drodridev4%26theme%3Ddracula%26hide_border%3Dtrue" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodridev4&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
 
 
@@ -143,13 +155,12 @@ Desarrollador de Software con formación especializada en Ciberseguridad. Me int
 <table align="center" border="0">
 <tr>
 <td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drodridev4%26theme%3Ddracula%26show_icons%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=rodridev4&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="center" />
 </td>
 <td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/%3Fusername%3Drodridev4%26theme%3Ddracula%26hide_border%3Dtrue%26layout%3Dcompact" align="center" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodridev4&theme=dracula&hide_border=true&layout=compact" align="center" />
 </td>
 </tr>
 </table>
-</div>
 
-<!-- MEJORA 3: Footer de Ola -->
+<!-- TROFEOS Y TARJETAS 3D -->
