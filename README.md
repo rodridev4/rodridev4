@@ -88,13 +88,21 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 <div align="center">
 <table>
 <tr>
-<!-- PROYECTO 1 -->
+<!-- PROYECTO 1: Validador de Contraseñas -->
 <td width="50%" align="center">
-<h3>Validador de contrasenas filtradas</h3>
+<h3>Validador de Contraseñas</h3>
 <a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas">
-<!-- Reemplaza con una imagen real cuando tengas -->
-<img width="100%" src="https://www.google.com/search?q=https://via.placeholder.com/300x150/007bff/ffffff%3Ftext%3DJava%2BBackend%2B%2526%2BDB" alt="Proyecto Java"/>
+<!-- Imagen Placeholder estilo Hacker -->
+<img width="100%" src="https://www.google.com/search?q=https://via.placeholder.com/300x150/2c2c2c/00ff00%3Ftext%3DPython%2BSecurity%2BTool" alt="Password Checker"/>
 </a>
+
+
+
+
+
+<p>Herramienta CLI segura que verifica filtraciones usando la API HIBP y k-Anonymity.</p>
+<a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas"><img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
 
 
 
@@ -109,7 +117,8 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
   <h3>Web Frontend (Tailwind/JS)</h3>
   <a href="https://github.com/rodridev4">
     <!-- Reemplaza con una imagen real cuando tengas -->
-    <img width="100%" src="https://via.placeholder.com/300x150/38bdf8/ffffff?text=Web+Moderna" alt="Proyecto Web"/>
+    <img width="100%" src="<img width="624" height="89" alt="Sin título" src="https://github.com/user-attachments/assets/731c3a54-0f0a-4d8c-a7ec-6549e4aea59c" />
+" alt="Proyecto Web"/>
   </a>
   <br/>
   <p>Interfaz responsiva optimizada para experiencia de usuario.</p>
