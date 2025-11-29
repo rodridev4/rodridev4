@@ -25,7 +25,7 @@ Desarrollador apasionado por crear soluciones seguras y eficientes. Combino el d
 
 🎓 Formación: Certificado en Desarrollo de Aplicaciones y Ciberseguridad (INACAP / Cisco).
 
-🛡️ Intereses: Hacking Ético, Protección de Infraestructura y Backend.
+🛡️ Intereses: Ciberseguridad, Protección de Infraestructura y Backend.
 
 ⚡ Soft Skills: Liderazgo y trabajo en equipo (Santander Open Academy).
 
