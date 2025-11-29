@@ -3,7 +3,7 @@
   <h1 style="color:#ff0037;">Hola 👋 soy Rodrigo</h1>
 
   <!-- TYPING SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0037&center=true&vCenter=true&width=500&lines=Analista+de+Ciberseguridad+Jr.;Desarrollador+de+Software;Infraestructura+TI+Segura;Java+%2B+Security;+%2F+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0037&center=true&vCenter=true&width=500&lines=Analista+de+Ciberseguridad+Jr.;Desarrollador+de+Software;Infraestructura+TI+Segura;Java+%2B+Security;+%2F" alt="Typing SVG" />
 </div>
 
 <!-- REDES SOCIALES -->
