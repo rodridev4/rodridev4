@@ -107,7 +107,7 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 </td>
 
 <!-- PROYECTO 2: App Web -->
-<td width="50%" align="center">
+<td width="100%" align="center">
   <h3>App Web de Seguimiento</h3>
   <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
     <!-- Foto de tu App -->
