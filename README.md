@@ -114,14 +114,14 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 
 <!-- PROYECTO 2 -->
 <td width="50%" align="center">
-  <h3>Web Frontend (Tailwind/JS)</h3>
-  <a href="https://github.com/rodridev4">
+  <h3>App Web de seguimiento de ejercicios</h3>
+  <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
     <!-- Reemplaza con una imagen real cuando tengas -->
     <img width="100%" src="<img width="624" height="89" alt="Sin título" src="https://github.com/user-attachments/assets/731c3a54-0f0a-4d8c-a7ec-6549e4aea59c" />
 " alt="Proyecto Web"/>
   </a>
   <br/>
-  <p>Interfaz responsiva optimizada para experiencia de usuario.</p>
+  <p>App Web con una interfaz responsiva y con muchas funciones utiles para el usuario.</p>
   <a href="https://github.com/rodridev4"><img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 
