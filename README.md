@@ -110,7 +110,7 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
   <h3>App Web de Seguimiento</h3>
   <a href="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios">
     <!-- Foto de tu App -->
-    <img width="300" src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true" alt="App Web"/>
+    <img width="500" src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true" alt="App Web"/>
   </a>
   <br/>
   <p>App Web con interfaz responsiva y funciones útiles para el usuario.</p>
