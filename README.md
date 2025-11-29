@@ -34,7 +34,6 @@ rodridev4@kali-linux:~$ ./run_skills.sh
 
 Intereses: Ciberseguridad, Redes, Backend
 Soft Skills: Liderazgo, Trabajo en equipo
-
 Contacto: rodrigojara.work@gmail.com
 
 Estado: 🟢 Listo para colaborar
@@ -138,23 +137,31 @@ Copy code
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
+---
+
 # 📈 Estadísticas GitHub
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=react"
-/>
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodridev4&theme=react&hide_border=true"/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&layout=compact&hide_border=true&theme=react"
-/>
+<!-- STATS + LANGS -->
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=react"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&layout=compact&hide_border=true&theme=react"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=react"/>
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&layout=compact&hide_border=true&theme=react"/>
-  </td>
-</tr>
+</div>
