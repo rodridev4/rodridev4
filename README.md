@@ -89,11 +89,10 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
 <table>
 <tr>
 <!-- PROYECTO 1: Validador de Contraseñas -->
-<td width="100%" align="center">
+<td width="50%" align="center">
 <h3>Validador de Contraseñas</h3>
 <a href="https://github.com/rodridev4/Validador-de-contrase-as-filtradas">
-<!-- Logo de Python -->
-<img width="300" src="https://github.com/rodridev4/Validador-de-contrase-as-filtradas/blob/main/Contrasena.png?raw=true" alt="Password Checker"/>
+<img width="500" src="https://github.com/rodridev4/Validador-de-contrase-as-filtradas/blob/main/Contrasena.png?raw=true" alt="Password Checker"/>
 </a>
 
 
