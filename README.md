@@ -154,5 +154,27 @@ Estado       : 🟢 Operativo
 <!-- ===================== ESTADÍSTICAS GITHUB ===================== -->
 
 📈 Estadísticas GitHub
-<div align="center"> <!-- RACHA --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodridev4&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/> <!-- STATS + LENGUAJES --> <table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=react" alt="GitHub Stats"/> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&theme=react&hide_border=true&layout=compact" alt="Top Languages"/> </td> </tr> </table> </div>
-<!-- FOOTER ANIMADO MORADO --> <div align="center"> <img src="https://i.gifer.com/ZZZR.gif" width="100%" alt="Footer Animado"/> </div>
+
+<div align="center">
+<!-- RACHA -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodridev4&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+
+<!-- STATS + LENGUAJES -->
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=rodridev4&show_icons=true&count_private=true&hide_border=true&theme=react" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev4&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ===================== FOOTER ANIMADO MORADO ===================== -->
+
+<div align="center">
+<img src="https://i.gifer.com/ZZZR.gif" width="100%" alt="Footer Animado"/>
+</div>
