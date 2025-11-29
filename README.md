@@ -6,11 +6,18 @@
 <!-- REDES SOCIALES -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/rodridev4" target="blank">
+<a href="https://github.com/rodridev4" target="blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/rodrigo-jara-/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<!--
+IMPORTANTE: Reemplaza "TU_ENLACE_CREDLY" con el link de tu perfil público de Credly.
+Si no tienes el link a mano, entra a Credly > Profile > Share > Copy Link.
+-->
+<a href="TU_ENLACE_CREDLY" target="blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Credly-FF6B00%3Fstyle%3Dfor-the-badge%26logo%3Dcredly%26logoColor%3Dwhite" alt="Credly"/>
 </a>
 <a href="mailto:rodrigojara.work@gmail.com" target="blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -19,13 +26,13 @@
 
 👨🏻‍💻 Sobre mí
 
-Desarrollador apasionado por crear soluciones seguras y eficientes. Combino el desarrollo de software con buenas prácticas de Ciberseguridad e Infraestructura TI. Siempre abierto a aprender cosas nuevas!
+Desarrollador de Software con formación especializada en Ciberseguridad. Me interesa la protección de infraestructura TI y el desarrollo de aplicaciones seguras.
 
-🔭 Enfoque actual: Desarrollo Java seguro y Arquitectura de redes.
+🔭 Enfoque actual: Desarrollo Java y Seguridad en Redes.
 
 🎓 Formación: Certificado en Desarrollo de Aplicaciones y Ciberseguridad (INACAP / Cisco).
 
-🛡️ Intereses: Ciberseguridad, Protección de Infraestructura y Backend.
+🛡️ Intereses: Ciberseguridad, Redes y Backend.
 
 ⚡ Soft Skills: Liderazgo y trabajo en equipo (Santander Open Academy).
 
@@ -74,11 +81,6 @@ Desarrollador apasionado por crear soluciones seguras y eficientes. Combino el d
 
 🛠️ Stack Tecnológico
 
-<!--
-Agregué 'linux' y 'bash' porque van de la mano con tus certs de seguridad.
-Agregué 'spring' (la hoja verde) porque si sabes Java + Seguridad, es tu siguiente paso lógico.
--->
-
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,mysql,spring,linux,bash,js,html,css,tailwind,git,github,vscode,idea%26perline%3D13" />
@@ -93,7 +95,8 @@ Agregué 'spring' (la hoja verde) porque si sabes Java + Seguridad, es tu siguie
 <!-- PROYECTO 1 -->
 <td width="50%" align="center">
 <h3>Sistema de Gestión (Java/MySQL)</h3>
-<a href="https://www.google.com/search?q=https://github.com/rodridev4">
+<a href="https://github.com/rodridev4">
+<!-- Reemplaza con una imagen real cuando tengas -->
 <img width="100%" src="https://www.google.com/search?q=https://via.placeholder.com/300x150/007bff/ffffff%3Ftext%3DJava%2BBackend%2B%2526%2BDB" alt="Proyecto Java"/>
 </a>
 
@@ -102,13 +105,14 @@ Agregué 'spring' (la hoja verde) porque si sabes Java + Seguridad, es tu siguie
 
 
 <p>Gestión de datos segura aplicando principios de infraestructura TI.</p>
-<a href="https://www.google.com/search?q=https://github.com/rodridev4"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Ver_C%C3%B3digo-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite"/></a>
+<a href="https://github.com/rodridev4"><img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 
 <!-- PROYECTO 2 -->
 <td width="50%" align="center">
   <h3>Web Frontend (Tailwind/JS)</h3>
   <a href="https://github.com/rodridev4">
+    <!-- Reemplaza con una imagen real cuando tengas -->
     <img width="100%" src="https://via.placeholder.com/300x150/38bdf8/ffffff?text=Web+Moderna" alt="Proyecto Web"/>
   </a>
   <br/>
