@@ -1,36 +1,29 @@
 <div align="center">
 <h1 align="center">Hola 👋 soy Rodrigo</h1>
 
-<!-- MEJORA 1: Efecto de Escritura estilo Terminal -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D38BDF8%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DDesarrollador%2Bde%2BSoftware%3BAnalista%2Bde%2BCiberseguridad%2BJr.%3BInfraestructura%2BTI%2BSegura%3BJava%2B%252B%2BSecurity" alt="Typing SVG" />
-</a>
-</div>
-</a>
+  <!-- EFECTO DE ESCRITURA -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Analista+de+Ciberseguridad+Jr.;Infraestructura+TI+Segura;Java+%2B+Security" alt="Typing SVG" />
 </div>
 
 <!-- REDES SOCIALES -->
-
 <p align="center">
-<a href="https://github.com/rodridev4" target="blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/rodrigo-jara-/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.credly.com/users/rodrigo-jara.a94f29b7" target="blank">
-<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
-</a>
-<a href="mailto:rodrigojara.work@gmail.com" target="blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <a href="https://github.com/rodridev4" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-jara-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/rodrigo-jara.a94f29b7" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  <a href="mailto:rodrigojara.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<!-- MEJORA 2: Contador de Visitas -->
-
+<!-- CONTADOR DE VISITAS -->
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Drodridev4%26label%3DVistas%2Bdel%2BPerfil%26color%3D0e75b6%26style%3Dflat-square" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=rodridev4&label=Visitas+del+Perfil&color=0e75b6&style=flat-square" alt="Visitas del perfil" />
 </p>
 
 👨🏻‍💻 Sobre mí
