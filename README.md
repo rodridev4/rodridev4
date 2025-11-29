@@ -122,7 +122,7 @@ Desarrollador de Software con interes en la ciberseguridad. Me interesa la prote
   </a>
   <br/>
   <p>App Web con una interfaz responsiva y con muchas funciones utiles para el usuario.</p>
-  <a href="https://github.com/rodridev4"><img src="https://img.shields.io/badge/Ver_Código-black?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/rodridev4"><img src="https://github.com/rodridev4/App-Web-para-llevar-la-cuenta-de-ejercicios/blob/master/AppWeb.png?raw=true"/></a>
 </td>
 
 
